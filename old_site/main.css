@@ -1,0 +1,81 @@
+* {
+    border: 0 none;
+    margin: 0;
+    padding: 0;
+}
+
+#container {
+	border: 1px solid #000000;
+	background-color: #FFFFFF;
+	margin: 60px auto;
+	width: 785px !important;
+}
+
+body {
+	background-color: #5988be;
+	background-image:url('Images/whitespacefade.png');
+	background-repeat:repeat-x;
+    color: #000000;
+    font: 12px/1.3em Arial,Tahoma,sans-serif;
+    text-align: center;
+}
+
+#site-title {
+	height: 0px;
+	text-indent: -9999px;
+}
+
+#logo {
+	display: block;
+	border-bottom: 1px solid #000000;
+	width: 785px;
+	top: 20px;
+	margin-left: auto;
+	margin-right: auto;
+	margin-bottom: -10px;
+}
+
+#navbar {
+	padding: 0px 10px 50px 10px;
+	}
+
+#name {
+	text-align: left;
+	float: left;
+    font: 18px/2.6em "courier new", courier;
+	}
+
+#nav {
+	text-align: right;
+	float: right;
+    font: 18px/2.6em "courier new", courier;
+	}
+	
+a.nava:link {text-decoration: none}
+a.nava:visited {text-decoration: none}
+a.nava:active {text-decoration: none}
+a.nava:hover {text-decoration: none}
+	
+#content {
+	margin-top: 40px;
+	position: relative;
+}
+
+.mission {
+	font-weight: bold;
+	padding-top: 30px;
+}
+
+.important {
+	font-weight: bold;
+	font-variant: small-caps;
+}
+
+a {
+	color: #000000;
+	font-weight: bold;
+}
+
+p {
+	padding: 10px;
+}

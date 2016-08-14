@@ -1,0 +1,67 @@
+p {
+	padding: 10px;
+	text-align: justify;
+}
+
+.thumb {
+
+	float: left;
+	margin-right: 10px;
+}
+
+.album {
+	width: 700px;
+	margin: auto;
+}
+
+.artist {
+	width: 700px;
+	margin: auto;
+}
+
+.accord {width:700px; margin: 20px auto; text-align: justify;}
+.accordion {width:700px; color:#000000}
+.accordion dt {width:680px; border:1px solid #FFFFFF; padding:8px; font-weight:bold; text-decoration: underline; margin-top:5px; cursor:pointer; background:url(images/accordianhead2fade.jpg); background-repeat:no-repeat;}
+.accordion dd {overflow:hidden; background:#FFFFFF}
+.accordion span {display:block; width:666px; border:1px solid #FFFFFF; border-top:none; padding:15px}
+
+.track_list {
+	float: left;
+	padding-left: 50px;
+	padding-top: 20px;
+	width: 250px;
+}
+
+.credits {
+	float: left;
+	padding: 0px 25px;
+	padding-top: 20px;
+	width: 300px;
+}
+
+#legal {
+	text-align: center;
+	font-variant: small-caps;
+	padding-top: 50px;
+}
+
+#footer {
+	text-align: center;
+	padding-top: 50px;
+}
+
+.artist_releases {
+	float: left;
+	padding-left: 50px;
+	padding-top: 20px;
+	padding-bottom: 50px;
+	width: 350px;
+}
+
+.artist_links {
+	float: left;
+	padding-left: 50px;
+	padding-top: 20px;
+	padding-bottom: 50px;
+	width: 150px;
+}
